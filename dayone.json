@@ -2,7 +2,7 @@
   {
     "id": "1",
     "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
-    "event": "Voice of Culrav- Round 2 (Anunaad)",
+    "event": "testing of Culrav- Round 2 (Anunaad)",
     "time": "9.00 am – 2.00 pm",
     "place": "MP Hall"
   },
@@ -35,7 +35,6 @@
     "place": "Basketball Court"
   },
   {
-
     "id": "1",
     "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
     "event": "Let's Face It (Rangsaazi- Face Painting)",
@@ -49,7 +48,7 @@
     "time": "5.30 pm - 6.00 pm",
     "place": "MP Hall"
   },
-    {
+  {
     "id": "1",
     "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
     "event": "Kavya Sandhya",
@@ -63,5 +62,4 @@
     "time": "PAN Culrav",
     "place": "Outside MP Hall"
   }
-
 ]
