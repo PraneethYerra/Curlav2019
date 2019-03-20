@@ -1,1 +1,67 @@
-[{"id":"2","url":"https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg","event":"Nukkad(Rangmanch)","time":"10:00 AM - 2:00 PM","place":"Outside MP Hall"},{"id":"2","url":"https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg","event":"Paper Dress(Arts)","time":"12:00 PM – 3:00 PM ","place":"BasketBall Court"},{"id":"2","url":"https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg","event":"Motley(Literary)","time":"2.00 PM – 5.00 PM ","place":"NLH-1"},{"id":"2","url":"https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg","event":"Tale Tellers(Literary) ","time":"3:00 PM – 5:00 PM","place":"GS"},{"id":"2","url":"https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg","event":"Desi Sync (Dance)","time":"3:00 PM- 7:00 PM ","place":"MP Hall"},{"id":"2","url":"https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg","event":"Doodling(Arts)  ","time":"4:00 PM – 6:00 PM ","place":"GS"},{"id":"2","url":"https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg","event":"Unplugged(Music)  ","time":"6:00 PM- 9:00 PM","place":"Skating Ground"}]
+[
+  {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Voice of Culrav- Round 2 (Anunaad)",
+    "time": "9.00 am – 2.00 pm",
+    "place": "MP Hall"
+  },
+  {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Lacuzzi (Litmuse- Quiz and Games)",
+    "time": "10.00 am – 12.00 pm ",
+    "place": "NLHC- 1"
+  },
+  {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Paint the Way (Rangsaazi- Road Painting)",
+    "time": " 12.00 pm – 3.00 pm",
+    "place": "NLHC- 1"
+  },
+  {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Kavyaanjali (Parimal- Hindi Poetry Slam)",
+    "time": "1.00 pm – 3.00 pm",
+    "place": "GS"
+  },
+  {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Hasyamanch (Rangmanch)",
+    "time": "3.00 pm - 5.30 pm ",
+    "place": "Basketball Court"
+  },
+  {
+
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Let's Face It (Rangsaazi- Face Painting)",
+    "time": "3.00 pm – 5.00 pm",
+    "place": "Arena/ Bikaner"
+  },
+  {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Inaugration Ceremony",
+    "time": "5.30 pm - 6.00 pm",
+    "place": "MP Hall"
+  }
+    {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Kavya Sandhya",
+    "time": "6.00 pm - 9.30 pm",
+    "place": "MP Hall"
+  }
+  {
+    "id": "1",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "MHM- Exhibition ",
+    "time": "PAN Culrav",
+    "place": "Outside MP Hall"
+  }
+
+]
