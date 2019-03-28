@@ -56,6 +56,14 @@
     "time": "2.00 pm - 6.00 pm",
     "place": "MP Hall "
   },
+
+  {
+    "id": "4",
+    "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/alchemy.jpg",
+    "event": "Stand-up Carnival",
+    "time": "9.00 am - 2.00 pm",
+    "place": "Seminar Hall"
+  },
   {
     "id": "4",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/anunaad.jpg",
