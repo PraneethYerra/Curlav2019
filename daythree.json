@@ -32,7 +32,14 @@
     "id": "3",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/anunaad.jpg",
     "event": "Rocktave + Rock Band Performance",
-    "time": "6.00 pm - 9.30 pm",
+    "time": "5.00 pm - 9.30 pm",
     "place": "Gymkhana Ground"
+  },
+  {
+    "id": "3",
+    "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/anunaad.jpg",
+    "event": "MHM - Exhibition",
+    "time": "Whole Day",
+    "place": "Outside Exam-Hall"
   }
 ]

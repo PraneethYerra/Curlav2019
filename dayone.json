@@ -18,14 +18,14 @@
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/momentovinci.jpg",
     "event": "Paint the Way (Rangsaazi- Road Painting)",
     "time": " 12.00 pm - 3.00 pm",
-    "place": "NLHC- 1"
+    "place": "Vijaya Bank Road"
   },
   {
     "id": "1",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/litmuse.jpg",
     "event": "Kavyaanjali (Parimal- Hindi Poetry Slam)",
     "time": "1.00 pm - 3.00 pm",
-    "place": "GS"
+    "place": "NLHC-1"
   },
   {
     "id": "1",
@@ -51,16 +51,17 @@
   },
   {
     "id": "1",
+    "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/photography.jpg",
+    "event": "Stand Up (Rangmanch-Open Event) ",
+    "time": "6.00 pm - 9.30 pm",
+    "place": "Basketball Court"
+  },
+  {
+    "id": "1",
     "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
     "event": "Kavya Sandhya",
     "time": "6.00 pm - 9.30 pm",
     "place": "MP Hall"
-  },
-  {
-    "id": "1",
-    "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/photography.jpg",
-    "event": "MHM - Exhibition ",
-    "time": "PAN Culrav",
-    "place": "Outside MP Hall"
   }
+  
 ]

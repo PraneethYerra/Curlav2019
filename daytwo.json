@@ -1,6 +1,13 @@
 
 [
   {
+  "id": "2",
+    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
+    "event": "Start-Up Carnival",
+    "time": "9.00 am - 2.00 pm",
+    "place": "Seminar Hall"
+  },
+  {
     "id": "2",
     "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
     "event": "Harmony (Duet Singing) + Voice of Culrav (Finals)",
@@ -51,13 +58,6 @@
   },
   {
     "id": "2",
-    "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/litmuse.jpg",
-    "event": "Sansadiya Vaad Vivad (Parimal)",
-    "time": "2.00 pm - 4.00 pm",
-    "place": "GS Rooms"
-  },
-  {
-    "id": "2",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/razmatazz.jpeg",
     "event": "Desi Sync (Razzmatazz)",
     "time": "3.00 pm - 6.00 pm",
@@ -66,14 +66,7 @@
   {
     "id": "2",
     "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
-    "event": "Impromptu (Rangmanch- Open Event)",
-    "time": "6.00 pm - 7.30 pm",
-    "place": "Basketball Court"
-  },
-  {
-    "id": "2",
-    "url": "https://culrav.mnnit.ac.in/static/backgrounds/anunaad.jpg",
-    "event": "Sufi Night",
+    "event": "Soulful Night",
     "time": "7.30 pm - 9.30 pm",
     "place": "MP Hall"
   }
