@@ -17,7 +17,7 @@
     "id": "4",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/anunaad.jpg",
     "event": "G.O.A.T. (Anunaad- Open Group/ Solo performance)",
-    "time": "10.00 am - 2.00 pm",
+    "time": "10.00 am - 1.00 pm",
     "place": "Basketball Court "
   },
   {
@@ -39,14 +39,14 @@
     "id": "4",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/litmuse.jpg",
     "event": "Talk Till you Drop (Litmuse- JAM+ Turncoat)",
-    "time": "3.00 pm - 6.00 pm",
+    "time": "10.00 am - 12.00 pm",
     "place": "SMS Department "
   },
   {
     "id": "4",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/photography.jpg",
     "event": "Darkroom Presentations",
-    "time": "2.00 pm - 6.00 pm",
+    "time": "10.00 am - 2.00 pm",
     "place": "GS Rooms"
   },
   {
@@ -56,19 +56,11 @@
     "time": "2.00 pm - 6.00 pm",
     "place": "MP Hall "
   },
-
-  {
-    "id": "4",
-    "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/alchemy.jpg",
-    "event": "Stand-up Carnival",
-    "time": "9.00 am - 2.00 pm",
-    "place": "Seminar Hall"
-  },
   {
     "id": "4",
     "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/anunaad.jpg",
     "event": "Euphony (Anunaad- Unplugged Band Performance)",
-    "time": "5.00 pm - 7.00 pm",
+    "time": "4.00 pm - 7.30 pm",
     "place": "Basketball Court "
   },
   {
@@ -77,5 +69,12 @@
     "event": "Pro Nite",
     "time": "8.00 pm - 9.30 pm",
     "place": "Gymkhana Ground "
+  },
+   {
+    "id": "4",
+    "url": "https://raw.githubusercontent.com/PraneethYerra/Curlav2019/master/anunaad.jpg",
+    "event": "MHM - Exhibition",
+    "time": "Whole Day",
+    "place": "Outside Exam-Hall"
   }
  ]
